@@ -28,7 +28,7 @@
 
 <!-- <p align="left">In 2024, Ali founded Codech, a team dedicated to teaching various specialties in the field of Web and Android , with a particular focus on backend and framework designs such as Django. He has a unique ability to ideate and transform ideas into products, as well as reverse engineer existing products to uncover their underlying mechanisms.</p> -->
 
-<p align="left">Currently, Ali is upgrading his skills in microservices architecture and DevOps tools, such as Kubernetes and monitoring, to become a full-stack developer in the field of Web. He is also learning DRF to create and develop api, services and sync multi apps on platforms, which will allow him to contribute more effectively to Python projects.</p>
+<p align="left">Currently, Amir Mohammad is upgrading his skills in microservices architecture and DevOps tools, such as Kubernetes and monitoring, to become a full-stack developer in the field of Web. He is also learning DRF to create and develop api, services and sync multi apps on platforms, which will allow him to contribute more effectively to multiplatfroms projects.</p>
 
 
 Here are some ideas to get you started:
