@@ -149,18 +149,11 @@ https://www.linkedin.com/in/amir-mohammad-dehghan-33815324a/
 
 <p align="center">
 
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api?username=AmirMohammadDehghan&show_icons=true&theme=tokyonight&count_private=true"/>
 
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirMohammadDehghan&layout=compact&theme=tokyonight"/>
 
-</p>
-
+![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=AmirMohammadDehghan&show_icons=true&theme=radical)
 ---
-
+</p>
 ## ⚡ Fun Fact
 
 > I love building software that replaces repetitive work with intelligent automation.
