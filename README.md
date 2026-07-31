@@ -1,4 +1,4 @@
-```md
+
 <div align="center">
 
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120"/>
@@ -164,4 +164,4 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirMohammad
 ## ⚡ Fun Fact
 
 > I love building software that replaces repetitive work with intelligent automation.
-```
+
